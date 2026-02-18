@@ -39,7 +39,7 @@ Example: Raw frames (legacy mode, no header)
 python video_to_ssd1306.py anime.mp4 movie.bin --raw
 
 
-**👉 ESP will just loop raw frames at ~15fps.**
+**=> ESP will just loop raw frames at ~15fps.**
 
 | Flag              | Description                                                 |
 | ----------------- | ----------------------------------------------------------- |
