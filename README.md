@@ -1,5 +1,7 @@
 ## ESP32 Video player
 Play any video you want on SSD1306 with any ESP32 
+
+
  **USE THE `partitions.csv` IF YOU HAVE 16MB OF FLASH**
 
 ### Also i have made WiFi version though
