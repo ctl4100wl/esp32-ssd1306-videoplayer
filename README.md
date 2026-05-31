@@ -7,6 +7,7 @@ Play any video you want on SSD1306 with any ESP32
 ### Also i have made WiFi version 
 ## Demo
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/91e0d55f-6b13-4a46-a187-7978263f53fd" />
+
 <iframe
 	width="315"
 	height="560"
