@@ -8,15 +8,8 @@ Play any video you want on SSD1306 with any ESP32
 ## Demo
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/91e0d55f-6b13-4a46-a187-7978263f53fd" />
 
-<iframe
-	width="315"
-	height="560"
-	src="https://www.youtube.com/embed/w3vItkn-D6E"
-	title="YouTube video player"
-	frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-	allowfullscreen
-></iframe>
+
+
 
 # **HOW TO USE CONVERTER:**
 
