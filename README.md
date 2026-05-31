@@ -6,10 +6,8 @@ Play any video you want on SSD1306 with any ESP32
 
 ### Also i have made WiFi version 
 ## Demo
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/91e0d55f-6b13-4a46-a187-7978263f53fd" />
-
-
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/91e0d55f-6b13-4a46-a187-7978263f53fd" />
+<img width="320" height="240" alt="7886798387071(1)" src="https://github.com/user-attachments/assets/eba048ee-4902-4d5d-8e12-9b7b6a8b6a9c" />
 
 # **HOW TO USE CONVERTER:**
 
